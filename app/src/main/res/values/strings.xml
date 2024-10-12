@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CodingChallenge</string>
+    <string name="user_image">Unknown User</string>
+    <string name="name_label">Name</string>
+    <string name="gender_label">Gender</string>
+    <string name="email_label">Email</string>
+    <string name="dob_label">Date of Birth</string>
+    <string name="phone_label">Phone</string>
+    <string name="address_label">Address</string>
+    <string name="user_full_name">%1$s %2$s</string>
+    <string name="user_address">%1$d %2$s, %3$s, %4$s</string>
+    <string name="search_user">Search user</string>
+    <string name="floating_desc">"show alert to enter the list count "</string>
+    <string name="enter_list_count">Enter list count</string>
+    <string name="fetch">Fetch</string>
+    <string name="fetch_users">Fetch Users</string>
+    <string name="enter_valid_number_error_msg">Please enter a valid number</string>
+</resources>
